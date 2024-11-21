@@ -2,7 +2,7 @@
 
    Este repositório implementa a aplicação responsável por gerenciar e redirecionar para a URL original, com base do código criado, aplicação faz parte do sistema serverless de encurtamento de URLs que utiliza AWS Lambda, desenvolvido durante o curso de Java da Rocketseat. O sistema tem como foco permitir que usuários criem URLs curtas que redirecionem para URLs originais.  
 
-   Repositório da aplicação responsável por gerar os códigos e armazenar os links encurtados: [Aplicação que gera os códigos dos links]().
+   Repositório da aplicação responsável por gerar os códigos e armazenar os links encurtados: [Aplicação que gera os códigos dos links](https://github.com/Jefferson-LFS/create-url-shortener).
 
 ## Pré-requisitos
 
